@@ -1,0 +1,4 @@
+baseURL = "http://blog.ibookhub.xyz/"
+languageCode = "zh-cn"
+title = "不知所言"
+theme = "ghostwriter"
